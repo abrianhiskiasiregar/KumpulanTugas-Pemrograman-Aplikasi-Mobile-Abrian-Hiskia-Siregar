@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "86783075117",
+    "firebase_url": "https://latihanfirebase-12-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "latihanfirebase-12",
+    "storage_bucket": "latihanfirebase-12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86783075117:android:782bb2515d5b7394f6e9a4",
+        "android_client_info": {
+          "package_name": "com.example.latihanfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFtv6XJ-zsKFYE9u29YrKCFGF1z1598XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
